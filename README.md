@@ -1,0 +1,3 @@
+# ubiquitous-computing-machine
+googleで「python」と検索して検索結果50件を取得し、それぞれのページタイトルとurlをExcelにまとめるツールを作成しました
+「python」の部分を他の文字列に変えれば他の検索もできます。
